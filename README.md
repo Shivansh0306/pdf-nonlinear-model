@@ -1,6 +1,7 @@
 # Probability Density Function (PDF) Estimation using MLE
 
-Project Workflow<img width="2784" height="1536" alt="image1" src="https://github.com/user-attachments/assets/74d55d9b-7be4-4899-a50e-fee80fd5ea2a" />
+#Project Workflow<img width="2712" height="1435" alt="PHOTO" src="https://github.com/user-attachments/assets/a6d534fb-14fc-4e10-9491-119189d29791" />
+
 
 > *Figure: Project Workflow visualization including Data Selection, Personalized Transformation, and MLE Modeling.*
 
