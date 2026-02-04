@@ -1,6 +1,6 @@
 # Probability Density Function (PDF) Estimation using MLE
 
-![Project Workflow]<img width="2784" height="1536" alt="image1" src="https://github.com/user-attachments/assets/74d55d9b-7be4-4899-a50e-fee80fd5ea2a" />
+Project Workflow<img width="2784" height="1536" alt="image1" src="https://github.com/user-attachments/assets/74d55d9b-7be4-4899-a50e-fee80fd5ea2a" />
 
 > *Figure: Project Workflow visualization including Data Selection, Personalized Transformation, and MLE Modeling.*
 
@@ -57,5 +57,5 @@ The project successfully:
 3.  Visualizes the fit between the empirical data and the estimated PDF.
 
 ## 📝 Author
-* **Name:** Dixant Sharma
+* **Name:** Shivansh Sharma
 * **Roll Number:** 102316054
